@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher Heller, I'm a <a href="https://linkedin.com/in/christopher-heller-59b229153">Aspiring IT Professional</a>☺</h1>
+<h1>Hi, I'm Christopher Heller, I'm a <a href="https://linkedin.com/in/christopher-heller-59b229153">Aspiring IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
