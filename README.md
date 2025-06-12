@@ -2,13 +2,16 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Creating a Windows and Linux Virtual Machine in the Cloud]
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thechrisheller/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thechrisheller/azure-network-protocols)
+  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/thechrisheller/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/thechrisheller/osTicket-Post-Installation/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/thechrisheller/osTicket-Lifecycle-Examples/tree/main)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thechrisheller/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thechrisheller/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
