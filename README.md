@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/thechrisheller/Creating-VM-Azure/tree/main)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thechrisheller/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thechrisheller/Azure-NSG-Net.Protocols/tree/main)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/thechrisheller/osTicket-Installation)
